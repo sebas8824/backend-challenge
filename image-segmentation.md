@@ -2,7 +2,7 @@
 
 For this challenge the basic steps for the image segmentation were the following:
 
-* Obtained the width and the heigth of the image in order to analyse each pixed of the image.
+* Obtained the width and the height of the image in order to analyse each pixed of the image.
 * For each pixel, obtained its RGB value and checked which pixels had the highest blue value.
 * For each pixel with the highest blue value, assigned it's number to both red and green.
 * Applied a "darken value" coeficient for each processed gray pixel, in this project is 0.5 (a given number for no apparent reason)
