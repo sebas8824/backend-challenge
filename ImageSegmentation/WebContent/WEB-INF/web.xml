@@ -4,7 +4,7 @@
  
 	<servlet>
 		<servlet-name>ImageSegmentationServlet</servlet-name>
-		<servlet-class>com.mercadoni.imagesegmentation.ImageSegmentationServlet</servlet-class>
+		<servlet-class>com.challenge.imagesegmentation.ImageSegmentationServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>ImageSegmentationServlet</servlet-name>
